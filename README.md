@@ -86,9 +86,8 @@ Resources worth to follow to stay current with the Azure platform
 * [Channel9](https://channel9.msdn.com/Azure) - Free videos on a variety of topics
 * [Tuesdays with Corey](https://channel9.msdn.com/Shows/Tuesdays-With-Corey) - Weekly Channel9 show on recent updates to Azure [Video Podcast](https://itunes.apple.com/us/podcast/azure-tuesdays-with-corey/id1023243001?mt=2)
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Weekly interviews with the actual engineers who build Microsoft Azure [Video Podcast](https://itunes.apple.com/us/podcast/azure-friday-hd-channel-9/id739501868?mt=2)
-* [Cloud Cover](https://channel9.msdn.com/Shows/Cloud+Cover) - Regular series with interviews from across Microsoft's cloud technologies
+* [Cloud Cover](https://channel9.msdn.com/Shows/Cloud+Cover) - Regular series with interviews from across Microsoft's cloud technologies [Video Podcast](https://itunes.apple.com/us/podcast/microsoft-azure-cloud-cover-show-hd-channel-9/id417256457?mt=2)
 * [Azure YouTube Channel](https://www.youtube.com/user/windowsazure) - Microsoft Azure's home on YouTube, providing latest products & solutions news, demos, and in-depth technical insights as well as training videos for Microsoft Azure. 
-* [Microsoft Azure Cloud Cover](https://channel9.msdn.com/shows/Cloud+Cover/) - Regular series with interviews, news, demos, tips and tricks on Azure. [Video Podcast](https://itunes.apple.com/us/podcast/microsoft-azure-cloud-cover-show-hd-channel-9/id417256457?mt=2)
 
 ## Podcasts
 * [Microsoft Cloud Show](http://www.microsoftcloudshow.com/) - Regular podcast covering happenings in both Azure and O365
