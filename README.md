@@ -89,6 +89,11 @@ Resources worth to follow to stay current with the Azure platform
 * [Cloud Cover](https://channel9.msdn.com/Shows/Cloud+Cover) - Regular series with interviews from across Microsoft's cloud technologies
 * [Azure YouTube Channel](https://www.youtube.com/user/windowsazure) - Microsoft Azure's home on YouTube, providing latest products & solutions news, demos, and in-depth technical insights as well as training videos for Microsoft Azure. 
 
+## Podcasts
+* [Microsoft Cloud Show](http://www.microsoftcloudshow.com/) - Regular podcast covering happenings in both Azure and O365
+* [Azure Podcast](http://azpodcast.azurewebsites.net/) - Short podcasts on a variety of Azure services
+* [MS Dev Show](msdevshow.com) - Even mixture of content between Azure and Windows
+
 ## Blogs
 * [Azure Field Notes Blog](http://www.azurefieldnotes.com/) - Blog sharing our knowledge of Azure, Azure Stack and cloud
 * [Build Azure](https://buildazure.com/) - Showcase of unique and aggregated content that focuses on EVERYTHING Microsoft Azure; 
