@@ -92,7 +92,7 @@ Resources worth to follow to stay current with the Azure platform
 ## Podcasts
 * [Microsoft Cloud Show](http://www.microsoftcloudshow.com/) - Regular podcast covering happenings in both Azure and O365
 * [Azure Podcast](http://azpodcast.azurewebsites.net/) - Short podcasts on a variety of Azure services
-* [MS Dev Show](msdevshow.com) - Even mixture of content between Azure and Windows
+* [MS Dev Show](http://msdevshow.com) - Even mixture of content between Azure and Windows
 
 ## Blogs
 * [Azure Field Notes Blog](http://www.azurefieldnotes.com/) - Blog sharing our knowledge of Azure, Azure Stack and cloud
