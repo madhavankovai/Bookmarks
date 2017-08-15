@@ -11,7 +11,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Microsoft Azure Newsletter](https://azure.microsoft.com/en-us/community/newsletter/subscribe/) - Subscribe to the Microsoft Azure Newsletter
 * [Preview features](https://azure.microsoft.com/en-us/services/preview/) - Preview features for evaluation purposes
 * [Azure Info Hub](https://azureinfohub.azurewebsites.net/) - Another great compilation of resources around Azure
-* [aka.ms Azure Shortcuts](aka.ms/Azure/Shortcuts) - Compilation of aka.ms shorts pointing to Azure resources
+* [aka.ms Azure Shortcuts](https://aka.ms/Azure/Shortcuts) - Compilation of aka.ms shorts pointing to Azure resources
 * [Interactive Azure Platform Overview](http://azureplatform.azurewebsites.net/en-us/) - Interactive Azure Platform Big Picture
 
 ## Architectural Guidance
