@@ -7,6 +7,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/) - One place. All updates. Official Microsoft list of all Azure updates
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/) - Regularly updated official blog with [RSS](https://azure.microsoft.com/en-us/blog/feed/) feed
 * [Cloud Platform Roadmap](https://www.microsoft.com/en-us/server-cloud/roadmap/) - Provides a snapshot of what Microsoft is working on in the Cloud Platform business
+* [Azure roadmap](https://azure.microsoft.com/en-us/roadmap/) - This product roadmap is the place to find out what’s new and what’s coming next
 * [Azure Weekly](http://azureweekly.info/) - Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 * [Microsoft Azure Newsletter](https://azure.microsoft.com/en-us/community/newsletter/subscribe/) - Subscribe to the Microsoft Azure Newsletter
 * [Preview features](https://azure.microsoft.com/en-us/services/preview/) - Preview features for evaluation purposes
